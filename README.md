@@ -1,4 +1,5 @@
-# Proyecto Django React
+# Proyecto Django React - Music Controller
+Este es un proyecto realizado con Django y React para crear una aplicación de hosting de música. Un usuario puede conectar su cuenta de Spotify a la aplicación e invitar a otros usuarios creando una sala. De esta forma los usuarios que estén en esta habitación podrán pausar o cambiar la canción actual.
 
 ## Ejecución del Proyecto
 
